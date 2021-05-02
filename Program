@@ -1,5 +1,2 @@
 s = input('Enter Your Text: ')
-count = 0
-for i in s:
-  count = count + 1
-print(count)
+print(len(s))
